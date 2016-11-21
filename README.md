@@ -1,7 +1,7 @@
 #Penetration Testing with Raspberry Pi - Second Edition
 This is the code repository for [Penetration Testing with Raspberry Pi - Second Edition](https://www.packtpub.com/networking-and-servers/penetration-testing-raspberry-pi-second-edition?utm_source=github&utm_medium=repository&utm_campaign=9781787126138), published by Packt. It contains all the supporting project files necessary to work through the book from start to finish.
 ##Instructions and Navigations
-All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
+All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter 2.
 
 
 
