@@ -5,10 +5,7 @@ All of the code is organized into folders. Each folder starts with a number foll
 
 
 
-The code will look like the following:
-```
 
-```
 
 We definitely recommend having a Raspberry Pi 3 to be able to practice and implement the concepts and examples we are going to show in this book. We do discuss in Chapter 1, Raspberry Pi and Kali Linux Basics, how to purchase a Raspberry Pi as well as how to configure the other system components that are required for topics in other chapters.  Additional Bluetooth and Wireless network adapters may be needed as well, and are discussed in their applicable sections.
 
